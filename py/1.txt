@@ -1,0 +1,1 @@
+Hey Everyone..In this project it is shown that how one can firstly extract data from a text file and then convert it into audio and finally save it into an audio file module used in gTTS that is google text to speech.
